@@ -1,0 +1,20 @@
+$ su -
+
+# dnf install \ https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+
+# dnf install \ https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+# dnf install lpf-spotify-client
+
+
+
+Installation de Spotify:
+
+    - Cliquer sur l'icône "lpf-spotify-client" dans la liste des applications
+
+    ou
+
+    - Utiliser la commande: # lpf update
+
+
+
